@@ -3,6 +3,7 @@ Think Before You Tweet is a student project aimed to simulate the experience of 
 Check out the project at https://creative.colorado.edu/~lomc9041/cyber/bully/
 
 Resources:
+
   https://github.com/tweepy/tweepy
   
   https://github.com/jschr/textillate
